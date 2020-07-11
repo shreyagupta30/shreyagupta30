@@ -12,6 +12,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: shreyagupta3011@gmail.com
 - 😄 Pronouns: She/her/hers
 - ⚡ Fun fact: The 8 in K8s(kubernetes) represents the 8 letters(ubernete) between K and s
--->
 
 [![Shreya's github stats](https://github-readme-stats.vercel.app/api?username=shreyagupta30&show_icons=true)](https://github.com/shreyagupta30/github-readme-stats)

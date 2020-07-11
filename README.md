@@ -6,9 +6,9 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on creaing a dashboard for National water model at HydroSense Lab and a side project. 
 - 🌱 I’m currently learning Ruby on rails, AWS pipelines and trying my hands on Machine learning. 
-- 👯 I’m looking to collaborate on any FOSS projects with backend requirements in Python. 
+- 👯 I’m looking to collaborate on any FOSS projects with backend requirements in Python.
 - 🤔 I’m looking for help with good study materials for learning rails. 
-- 💬 Ask me about good rock music recomdation and web technolgies. We can always discuss Sci-Fi movies and novels. 
+- 💬 Ask me about good rock music recommendation and Web technologies. We can always discuss Sci-Fi movies and shows. 
 - 📫 How to reach me: shreyagupta3011@gmail.com
 - 😄 Pronouns: She/her/hers
 - ⚡ Fun fact: The 8 in K8s(kubernetes) represents the 8 letters(ubernete) between K and s

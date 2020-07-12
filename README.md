@@ -1,5 +1,6 @@
 ### Hi there 👋
-[Social Media](https://img.shields.io/twitter/follow/shreya_gupta30?label=Twitter&style=social)
+
+![Twitter Follow](https://img.shields.io/twitter/follow/shreya_gupta30?label=Twitter&style=social)
 
 I am Shreya Gupta, final year engineering undergrad. Thanks for dropping by! I am currently interning at [HydroSense Lab](https://github.com/hydrosenselab), IIT-Delhi working on the National water model. I love programming and Python is my go to langauge. 
 

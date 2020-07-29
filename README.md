@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: She/her/hers
 - ⚡ Fun fact: The 8 in K8s(kubernetes) represents the 8 letters(ubernete) between K and s
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=shreaygupta30&show_icons=true&theme=tokyonight" alt="shreyagupta30" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=shreyagupta30&show_icons=true&theme=tokyonight" alt="shreyagupta30" /> </p>

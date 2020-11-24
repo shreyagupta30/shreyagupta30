@@ -4,7 +4,7 @@ I am Shreya Gupta. Thanks for dropping by! I am incoming outreachy intern @Fedor
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on creaing a dashboard for National water model at HydroSense Lab and a side project. 
+- 🔭 I’m currently working on a side project. 
 - 🌱 I’m currently learning Rust for outreachy internship. 
 - 👯 I’m looking to collaborate on any FOSS projects with backend requirements in Python.
 - 🤔 I’m looking for help with good study materials for learning rust. 

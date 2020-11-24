@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Shreya Gupta. Thanks for dropping by! I am incoming outreachy intern @fedora for winter cohort 2020. I love programming and Python is my go to langauge. 
+I am Shreya Gupta. Thanks for dropping by! I am incoming outreachy intern @Fedora for winter cohort 2020. I love programming and Python is my go to langauge. 
 
 Here are some ideas to get you started:
 

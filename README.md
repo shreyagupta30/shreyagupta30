@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - I specialize in **backend-focused software engineering**, enjoy **designing scalable systems and APIs and data pipelines**.
 - Previously worked at **[Wall](https://www.wall.app)** as a **Senior Software Engineer**.
 - Outreachy Intern at **[Fedora](https://www.outreachy.org/alums/2020-12/)** under the project **[MediaCMS](https://github.com/mediacms-io/mediacms)**. You can see bi-weekly progress blogs here - [Outreachy blogs](https://blog.shreyagupta.dev/series/outreachy).
-- Worked at **[HydroSense Lab, IIT Delhi](https://hydrosense.iitd.ac.in/)** as a research Intern and Junior Research Fellow  under **Prof. Manabendra Saharia** to develop a chatbot for the INDRA (International Natural Disasters Research and Analytics) project, leading to an increase in citizen-reported data.
+- Worked at **[HydroSense Lab, IIT Delhi](https://hydrosense.iitd.ac.in/)** as a **research Intern and Junior Research Fellow**  under **Prof. Manabendra Saharia** to develop a chatbot for the INDRA (International Natural Disasters Research and Analytics) project, leading to an increase in citizen-reported data.
 - 👨‍💻 All of my projects are available at [https://shreyagupta.dev](https://shreyagupta.dev)
 - 💬 Ask me about **Open Source, Backend, System Architecture and Design, Django, Databases**
 - 📫 How to reach me **shreyagupta3011@gmail.com**

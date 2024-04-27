@@ -6,7 +6,7 @@
 **shubhank-saxena/shubhank-saxena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 -->
-<h1 align="center">I am Shreya Gupta (Pronouns: She/her). Thanks for dropping by! </h1>
+<h1 align="center">I am Shreya Gupta. Thanks for dropping by! </h1>
 
 - Currently a graduate student at **Northeastern University, Boston** pursuing **Master of Science in Information Systems**.
 - I specialize in **backend-focused software engineering**, enjoy **designing scalable systems and APIs and data pipelines**.

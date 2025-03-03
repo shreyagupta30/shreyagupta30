@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 
 - Currently a graduate student at **Northeastern University, Boston** pursuing **Master of Science in Information Systems**.
 - I specialize in **backend-focused software engineering**, enjoy **designing scalable systems and APIs and data pipelines**.
-- Currently working as a **Software Engineering Intern** at **[Bullwhip Technologies](https://www.bullwhip.io/)**
+- Last Experience as **Software Engineering Intern** at **[Bullwhip Technologies](https://www.bullwhip.io/)**
 - Previously worked at **[Wall](https://www.wall.app)** as a **Senior Software Engineer**.
 - Outreachy Intern at **[Fedora](https://www.outreachy.org/alums/2020-12/)** under the project **[NMState](https://nmstate.io/)**. You can see bi-weekly progress blogs here - [Outreachy blogs](https://blog.shreyagupta.dev/series/outreachy).
 - Worked at **[HydroSense Lab, IIT Delhi](https://hydrosense.iitd.ac.in/)** as a **research Intern and Junior Research Fellow**  under **Prof. Manabendra Saharia** to develop a chatbot for the INDRA (International Natural Disasters Research and Analytics) project, leading to an increase in citizen-reported data.
